@@ -1,0 +1,69 @@
+body {
+  background-color: #35477d;
+  margin: 0;
+}
+
+p {
+  font-family: 'Kanit', sans-serif;
+  font-size: 2rem;
+  color: white;
+}
+
+.hidden {
+  display: none;
+}
+
+.show {
+  display: inline-block;
+}
+
+#main-title {
+  color: white;
+  font-family: 'Roboto Slab', serif;
+  text-shadow: 4px 5px #ff0000;
+  font-size: 6rem;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.container {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+
+.weapon {
+  display: inline-block;
+  margin: 10px;
+}
+
+.sub-text {
+  font-size: 15px;
+  margin: 0;
+}
+
+.btn {
+  margin-bottom: 20px;
+  display: inline-block;
+  width: 180px;
+  height: 30px;
+  font-size: 1rem;
+  font-family: 'Kanit', sans-serif;
+  border-radius: 3px;
+  margin: 25px;
+}
+
+.btn-div {
+  text-align: center;
+}
+
+button:hover {
+  color: #ff0000;
+  box-shadow: 0 4px #ff0000;
+}
+
+.fotter-txt {
+  text-align: center;
+  color: white;
+  font-size: 1.3rem;
+}
